@@ -1,0 +1,11 @@
+UserName,Email,Address,LifeTimeValue
+"User E",user4@example.com,"5 Example St",1377.2
+"User G",user6@example.com,"7 Example St",1653.7
+"User B",user1@example.com,"2 Example St",2003.1
+"User I",user8@example.com,"9 Example St",2360.3
+"User F",unknown_5@example.com,"6 Example St",3810.0
+"User D",user3@example.com,"4 Example St",4049.6
+"User H",user7@example.com,"8 Example St",4457.7
+"User C",user2@example.com,"3 Example St",4527.8
+"User A",unknown_0@example.com,"1 Example St",6107.5
+"User J",user9@example.com,"10 Example St",132490.0
